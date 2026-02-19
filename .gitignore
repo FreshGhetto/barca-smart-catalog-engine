@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+.venv
+*.jpg
+*.jpeg
+*.png
+*.zip
+_raw/
+cards/
+_missing_report.txt
+.streamlit/
+start_BARCA.bat
+.idea/
